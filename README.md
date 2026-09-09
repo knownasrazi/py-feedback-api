@@ -12,7 +12,7 @@ Python feedback API - collect bugs and praise, FastAPI + SQLite.
 
 This README is the changelog. Every release is a commit.
 
-**v1.0.0** — Initial cream release. Python core, stone tokens, and a clean surface.
+**v1.0.0** — Initial clean release. Python core, stone tokens, and a clean surface.
 
 ## Install
 
@@ -22,9 +22,9 @@ cd py-feedback-api
 pip install -r requirements.txt && python -m src.main
 ```
 
-## Why cream?
+## Why clean?
 
-Because tools should feel like paper. Cream is paper that has lived a little.
+Because tools should feel like paper. Clean is paper that has lived a little.
 
 ## License
 
